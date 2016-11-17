@@ -14,3 +14,11 @@ Ruby(Rails):
 
 - [http://guides.rubyonrails.org/index.html](http://guides.rubyonrails.org/index.html)
 - [https://www.ruby-lang.org/zh_cn](https://www.ruby-lang.org/zh_cn)
+
+MarkDown:
+
+- [https://github.com/vmg/sundown](https://github.com/vmg/sundown)
+- [https://github.com/github/markup](https://github.com/github/markup)
+
+Json:
+- [https://github.com/stedolan/jq](https://github.com/stedolan/jq)
